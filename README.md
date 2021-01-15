@@ -28,7 +28,7 @@ O aplicativo devera conter:
 
 - O Sistema deverá ser desenvolvido utilizando o framework [Flutter](https://flutter.dev/);
 
-- O Layout utilizado dever ser seguido como base e pode ser encontrado no  [Figma](https://www.figma.com/file/W6jWGGCGz3qhun7TxTrVn4/Teste_pokemon?node-id=13%3A427);
+- O Layout utilizado dever ser seguido como base e pode ser encontrado no  [Figma](https://www.figma.com/file/W6jWGGCGz3qhun7TxTrVn4/Teste_pokemon?node-id=13%3A427) (é necessário logar no Figma para acessar as propriedades dos objetos das telas);
 
 - Para o gerenciamento de estados utilize algum provider([BLoC](https://pub.dev/packages/bloc_provider), [GetX](https://pub.dev/packages/get), [MobX](https://pub.dev/packages/mobx));
 
@@ -40,7 +40,7 @@ Caracteristicas obrigatórias que devem ser exibidas ao realizar a pesquisa:
 - Evoluções
 - Tipo(s)
 - Imagem
-- Nomes das Habilidades
+- Nomes das Habilidades (Moves)
 - Peso (Weight)
 - Status base(Pelo menos 3)  - Exemplos: (HP, Attack, Defense, Speed)
 
